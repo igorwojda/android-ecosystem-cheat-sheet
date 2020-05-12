@@ -54,8 +54,3 @@ NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
 WHETHER IN AN ACTION OF  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
-
-## Animations License
-Flowing animations and are distributed under `Creative Commons License 2.0`:
-- [Error screen](https://lottiefiles.com/8049-error-screen) by Chetan Potnuru
-- [Building Screen](https://lottiefiles.com/1271-building-screen) by Carolina Cajazeira
