@@ -14,9 +14,7 @@ All tool are matched against [SDLC](https://en.wikipedia.org/wiki/Systems_develo
 
 Some tools belongs to multiple SDLC buckets, so they are placed where they fit the most. If given tool has more than one heavy specialisation it may be intentionally duplicated on the board.
 
-![module_dependencies](https://github.com/igorwojda/android-showcase/blob/master/misc/image/module_dependencies.png?raw=true){:target="_blank"}
-
-[![Foo](https://github.com/igorwojda/android-ecosystem-cheat-sheet/blob/master/misc/image/board.png?raw=true)](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA)
+[![Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet/blob/master/misc/image/board.png?raw=true)](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA){:target="_blank"}
 
 The goal of the diagram is not to be complete in every possible way, but rather present on a big picture by focusing on up to date, useful and maintained tools.
 
