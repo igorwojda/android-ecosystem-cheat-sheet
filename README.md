@@ -23,6 +23,10 @@ The goal of the diagram is not to be complete in every possible way, but rather 
 - More detailed description of Android architecture
 - Android libraries list (for now please check my [android showcase project](https://github.com/igorwojda/android-showcase))
 
+## Related projects
+
+- [Cloud Native Landscape](https://github.com/cncf/landscape#trail-map) - equivalent map of cloud native technologies
+
 ## Contribute
 
 Want to contribute? Board can only be edited by author (me), but feel free to open new issue to discuss improvements.
