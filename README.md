@@ -10,7 +10,7 @@ All tool are matched against [SDLC](https://en.wikipedia.org/wiki/Systems_develo
 - Development
 - Verification
 - Deployment
-- Monitoring & Maintanance
+- Monitoring & Maintenance
 
 Some tools belongs to multiple SDLC buckets, so they are placed where they fit the most. If given tool has more than one heavy specialisation it may be intentionally duplicated on the board.
 
@@ -25,7 +25,7 @@ The goal of the diagram is not to be complete in every possible way, but rather 
 
 ## Related projects
 
-- [Cloud Native Landscape](https://github.com/cncf/landscape#trail-map) - equivalent map of cloud native technologies
+- [Cloud Native Landscape](https://github.com/cncf/landscape) - equivalent map of cloud native technologies
 
 ## Contribute
 
