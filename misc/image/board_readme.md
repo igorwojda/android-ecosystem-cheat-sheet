@@ -1,0 +1,1 @@
+This board image in only a place holder. Full board is available [here](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA).
