@@ -12,7 +12,7 @@ All tool are matched against [SDLC](https://en.wikipedia.org/wiki/Systems_develo
 - Deployment
 - Monitoring & Maintenance
 
-Some tools belongs to multiple SDLC buckets, so they are placed where they fit the most. If given tool has more than one heavy specialisation it may be intentionally duplicated on the board.
+Some tools belongs to multiple SDLC buckets, so they are placed where they fit the most. If given tool has more than one heavy specialisation it may be intentionally duplicated on the [board](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA).
 
 [![Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet/blob/master/misc/image/board.png?raw=true)](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA)
 
