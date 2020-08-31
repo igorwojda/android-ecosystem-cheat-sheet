@@ -42,7 +42,7 @@ Want to contribute? Board can only be edited by author (me), but feel free to op
 ```
 MIT License
 
-Copyright (c) 2019 Igor Wojda
+Copyright (c)2020 Igor Wojda
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
 associated documentation files (the "Software"), to deal in the Software without restriction, including 
