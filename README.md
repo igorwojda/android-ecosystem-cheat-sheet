@@ -14,7 +14,7 @@ All tool are matched against [SDLC](https://en.wikipedia.org/wiki/Systems_develo
 
 Some tools belongs to multiple SDLC buckets, so they are placed where they fit the most. If given tool has more than one heavy specialisation it may be intentionally duplicated on the [board](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA).
 
-[![Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet/blob/master/misc/image/board.png?raw=true)](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA)
+[![Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet/blob/main/misc/image/board.png?raw=true)](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx#AhRp651J2qctdPDTneTRpMErA)
 
 The goal of the diagram is not to be complete in every possible way, but rather present on a big picture by focusing on up to date, useful and maintained tools.
 
@@ -34,7 +34,7 @@ Want to contribute? Board can only be edited by author (me), but feel free to op
 
 ## Author
 
-[![Follow me](https://github.com/igorwojda/android-showcase/raw/master/misc/image/avatar.png)](https://twitter.com/igorwojda)
+[![Follow me](https://github.com/igorwojda/android-showcase/raw/main/misc/image/avatar.png)](https://twitter.com/igorwojda)
 
 [![Follow me](https://img.shields.io/twitter/follow/igorwojda?style=social)](https://twitter.com/igorwojda)
 
